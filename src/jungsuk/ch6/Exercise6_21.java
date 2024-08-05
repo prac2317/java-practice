@@ -48,7 +48,7 @@ class MyTV{
     }
 }
 
-public class Exercose6_21 {
+public class Exercise6_21 {
     public static void main(String[] args) {
         MyTV t = new MyTV();
 
